@@ -41,7 +41,6 @@
 	.article {
 		display: flex;
 		flex-direction: column;
-		height: 270px;
 		width: 280px;
 		color: #303030;
 		align-items: center;
